@@ -13,12 +13,12 @@ Dont overtighten the screws as the posts could break off and the threads might g
 
 # Bill Of Materials
 
-* 30 diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/)/aliexpress [link](https://www.aliexpress.com/item/32729204179.html))
-* 30 cherry mx style switches
+* 30 x diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/)/aliexpress [link](https://www.aliexpress.com/item/32729204179.html))
+* 30 x cherry mx style switches
 * 24 AWG (0.2 mm2) wire
-* Pro Micro (aliexpress [link](https://www.aliexpress.com/item/32902569443.html))
-* 4 M3x10 countersunk screws that go through the top case (tme.eu [link](https://www.tme.eu/ro/en/details/b3x10_bn661/bolts/bossard/1250752/))
-* 4 M3x10 allen head screws (tme.eu [link](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/)/13mm overall length, 5.5mm diameter head)
+* 1 x Pro Micro (aliexpress [link](https://www.aliexpress.com/item/32902569443.html))
+* 4 x M3x10 countersunk screws that go through the top case (tme.eu [link](https://www.tme.eu/ro/en/details/b3x10_bn661/bolts/bossard/1250752/))
+* 4 x M3x10 allen head screws (tme.eu [link](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/)/13mm overall length, 5.5mm diameter head)
 * hot glue for securing the pro micro to the bottom case(optional, but recommended)
 
 # Pin assignment
