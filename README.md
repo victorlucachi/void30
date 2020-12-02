@@ -3,6 +3,8 @@
 
 ![VOID30](https://i.imgur.com/6EY6A57.jpg)
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 The VOID30 is a 3d printed, handwired, 30% ortholinear keyboard running QMK Firmware on a Pro Micro controller.
 
 I suggest printing the case using a 0.4 mm nozzle, supports are not needed for any of the parts.
