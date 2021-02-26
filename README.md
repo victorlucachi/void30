@@ -11,6 +11,13 @@ You might want/need to use small dabs of hot glue to secure the switches in the 
 
 Dont overtighten the screws as the posts could break off and the threads might get stripped.
 
+# Handwiring guide
+
+I've also put together a pretty visual handwiring guide for the VOID9, that you can browse over [here](https://victorlucachi.ro/journal/void9-wiring-guide/).
+
+| ![](https://i.imgur.com/MHTt02w.jpg) 	| ![](https://i.imgur.com/TzdhlCM.jpg) 	| ![](https://i.imgur.com/vTpQaXI.jpg) 	|
+|---------------------------------------	|---------------------------------------	|---------------------------------------	|
+
 # Bill Of Materials
 
 * 30 x diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/)/aliexpress [link](https://www.aliexpress.com/item/32729204179.html))
