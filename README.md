@@ -15,8 +15,8 @@ Dont overtighten the screws as the posts could break off and the threads might g
 
 I've also put together a pretty visual handwiring guide for the VOID9, that you can browse over [here](https://victorlucachi.ro/journal/void9-wiring-guide/).
 
-| ![](https://i.imgur.com/MHTt02w.jpg) 	| ![](https://i.imgur.com/TzdhlCM.jpg) 	| ![](https://i.imgur.com/vTpQaXI.jpg) 	|
-|---------------------------------------	|---------------------------------------	|---------------------------------------	|
+| ![](https://i.imgur.com/01WknB5.jpg) 	| ![](https://i.imgur.com/GMMczAH.jpg) 	| ![](https://i.imgur.com/5NyUoJY.jpg) 	|
+|---------------------------------------|---------------------------------------|---------------------------------------|
 
 # Bill Of Materials
 
@@ -37,9 +37,19 @@ I've also put together a pretty visual handwiring guide for the VOID9, that you 
     COL0    COL1    COL2    COL3    COL4    COL5    COL6    COL7    COL8    COL9
     F5      F4      B5      B4      E6      D7      C6      D4      D0      D1
 
+# QMK Vial Fork
+
+A QMK Vial fork can be found [here](https://github.com/victorlucachi/vial-qmk/tree/dev_void/keyboards/handwired/void30).
+
+Most features are disabled in order for the firmware to fit on the atmega32u4 present on the Pro Micro controllers, but if you want to tinker around with different features or if you're using a different MCU you can enable/disable them to suit your own needs by editing the rules.mk file in the vial keymap folder.
+
+![VOID30 Vial](https://user-images.githubusercontent.com/2669084/198690678-1ba5441c-e6e7-4980-8934-ea4e442520db.png)
+
 # QMK Fork
 
 A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/dev_void/keyboards/handwired/void30). Edit them to suit your own needs and build the firmware following the QMK docs.
+
+If you plan on using the VIA configurator dont forget to download the json definitions file linked in this repository.
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
