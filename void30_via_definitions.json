@@ -2,7 +2,6 @@
     "name":"VOID30",
     "vendorId":"0xF055",
     "productId":"0x3532",
-    "lighting":"none",
     "matrix":{
         "rows":3,
         "cols":10
