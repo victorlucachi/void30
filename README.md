@@ -62,6 +62,10 @@ A fork containing the QMK config files can be found [here](https://github.com/vi
 
 If you plan on using the VIA configurator dont forget to download the json definitions file linked in this repository.
 
+# ZMK Config Repo
+
+A ZMK config repo for wireless builds can be found [here](https://github.com/fidepus/ZMK-Config-Void30), thanks to [fidepus](https://github.com/victorlucachi/void30/issues/2). The firmware is configured around the [Puchi BLE](https://keycapsss.com/keyboard-parts/mcu-controller/202/puchi-ble-wireless-microcontroller-pro-micro-replacement) controller, but it can be easily adapted to a nice!nano or any other [ZMK supported hardware](https://zmk.dev/docs/hardware#composite).
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
